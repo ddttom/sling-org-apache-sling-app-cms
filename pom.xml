@@ -76,6 +76,8 @@
         <module>ui</module>
         <module>reference</module>
         <module>feature</module>
+        <module>provisioning</module>
+        <module>builder</module>
         <module>archetype</module>
         <module>it</module>
     </modules>
