@@ -24,3 +24,4 @@ pom.xml.tag
 release.properties
 pom.xml.next
 .java-version
+Vagrantfile
